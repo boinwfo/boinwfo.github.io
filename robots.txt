@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://boinwfo.github.io/sitemap/sitemap.txt
